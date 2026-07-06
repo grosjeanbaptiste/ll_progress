@@ -1,13 +1,13 @@
 {
   "user_name": "default",
-  "generated_at": 1783326392,
+  "generated_at": 1783326396,
   "global": {
     "words_by_lang": {
       "fr": 1368,
-      "de": 1489,
       "it": 1462,
-      "nl": 1628,
       "en": 1646,
+      "nl": 1628,
+      "de": 1489,
       "es": 1433
     },
     "examples": 13248,
@@ -22,19 +22,19 @@
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.0015541621,
+        "progress_to_next": 0.0015541619,
         "coverage_next": 0.024930747,
-        "mastery_next": 0.06233917,
+        "mastery_next": 0.062339164,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.06233917,
-          "mean_confidence": 0.062339168,
+          "weighted_effective": 0.062339164,
+          "mean_confidence": 0.06233916,
           "n_senses": 361,
           "n_tested": 9,
           "coverage": 0.024930747,
-          "global": 0.0015541621,
+          "global": 0.0015541619,
           "level": "fragile"
         },
         "ll-2": {
@@ -99,19 +99,19 @@
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.00017289323,
+        "progress_to_next": 0.00017289321,
         "coverage_next": 0.002770083,
-        "mastery_next": 0.062414456,
+        "mastery_next": 0.062414452,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.062414456,
-          "mean_confidence": 0.062414456,
+          "weighted_effective": 0.062414452,
+          "mean_confidence": 0.062414452,
           "n_senses": 361,
           "n_tested": 1,
           "coverage": 0.002770083,
-          "global": 0.00017289323,
+          "global": 0.00017289321,
           "level": "fragile"
         },
         "ll-2": {
@@ -176,19 +176,19 @@
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.0015541621,
+        "progress_to_next": 0.0015541619,
         "coverage_next": 0.024930747,
-        "mastery_next": 0.06233917,
+        "mastery_next": 0.062339164,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.06233917,
-          "mean_confidence": 0.062339168,
+          "weighted_effective": 0.062339164,
+          "mean_confidence": 0.06233916,
           "n_senses": 361,
           "n_tested": 9,
           "coverage": 0.024930747,
-          "global": 0.0015541621,
+          "global": 0.0015541619,
           "level": "fragile"
         },
         "ll-2": {
@@ -253,19 +253,19 @@
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.00017289323,
+        "progress_to_next": 0.00017289321,
         "coverage_next": 0.002770083,
-        "mastery_next": 0.062414456,
+        "mastery_next": 0.062414452,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.062414456,
-          "mean_confidence": 0.062414456,
+          "weighted_effective": 0.062414452,
+          "mean_confidence": 0.062414452,
           "n_senses": 361,
           "n_tested": 1,
           "coverage": 0.002770083,
-          "global": 0.00017289323,
+          "global": 0.00017289321,
           "level": "fragile"
         },
         "ll-2": {
@@ -330,19 +330,19 @@
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.00017289323,
+        "progress_to_next": 0.00017289321,
         "coverage_next": 0.002770083,
-        "mastery_next": 0.062414456,
+        "mastery_next": 0.062414452,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.062414456,
-          "mean_confidence": 0.062414456,
+          "weighted_effective": 0.062414452,
+          "mean_confidence": 0.062414452,
           "n_senses": 361,
           "n_tested": 1,
           "coverage": 0.002770083,
-          "global": 0.00017289323,
+          "global": 0.00017289321,
           "level": "fragile"
         },
         "ll-2": {
@@ -407,19 +407,19 @@
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.0015541621,
+        "progress_to_next": 0.0015541619,
         "coverage_next": 0.024930747,
-        "mastery_next": 0.06233917,
+        "mastery_next": 0.062339164,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.06233917,
-          "mean_confidence": 0.062339168,
+          "weighted_effective": 0.062339164,
+          "mean_confidence": 0.06233916,
           "n_senses": 361,
           "n_tested": 9,
           "coverage": 0.024930747,
-          "global": 0.0015541621,
+          "global": 0.0015541619,
           "level": "fragile"
         },
         "ll-2": {
@@ -484,19 +484,19 @@
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.00017289323,
+        "progress_to_next": 0.00017289321,
         "coverage_next": 0.002770083,
-        "mastery_next": 0.062414456,
+        "mastery_next": 0.062414452,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.062414456,
-          "mean_confidence": 0.062414456,
+          "weighted_effective": 0.062414452,
+          "mean_confidence": 0.062414452,
           "n_senses": 361,
           "n_tested": 1,
           "coverage": 0.002770083,
-          "global": 0.00017289323,
+          "global": 0.00017289321,
           "level": "fragile"
         },
         "ll-2": {
@@ -561,19 +561,19 @@
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.0015541621,
+        "progress_to_next": 0.0015541619,
         "coverage_next": 0.024930747,
-        "mastery_next": 0.06233917,
+        "mastery_next": 0.062339164,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.06233917,
-          "mean_confidence": 0.062339168,
+          "weighted_effective": 0.062339164,
+          "mean_confidence": 0.06233916,
           "n_senses": 361,
           "n_tested": 9,
           "coverage": 0.024930747,
-          "global": 0.0015541621,
+          "global": 0.0015541619,
           "level": "fragile"
         },
         "ll-2": {
@@ -638,19 +638,19 @@
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.00017289323,
+        "progress_to_next": 0.00017289321,
         "coverage_next": 0.002770083,
-        "mastery_next": 0.062414456,
+        "mastery_next": 0.062414452,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.062414456,
-          "mean_confidence": 0.062414456,
+          "weighted_effective": 0.062414452,
+          "mean_confidence": 0.062414452,
           "n_senses": 361,
           "n_tested": 1,
           "coverage": 0.002770083,
-          "global": 0.00017289323,
+          "global": 0.00017289321,
           "level": "fragile"
         },
         "ll-2": {
@@ -715,19 +715,19 @@
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.0015541621,
+        "progress_to_next": 0.0015541619,
         "coverage_next": 0.024930747,
-        "mastery_next": 0.06233917,
+        "mastery_next": 0.062339164,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.06233917,
-          "mean_confidence": 0.062339168,
+          "weighted_effective": 0.062339164,
+          "mean_confidence": 0.06233916,
           "n_senses": 361,
           "n_tested": 9,
           "coverage": 0.024930747,
-          "global": 0.0015541621,
+          "global": 0.0015541619,
           "level": "fragile"
         },
         "ll-2": {
