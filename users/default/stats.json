@@ -1,0 +1,790 @@
+{
+  "user_name": "default",
+  "generated_at": 1783326392,
+  "global": {
+    "words_by_lang": {
+      "fr": 1368,
+      "de": 1489,
+      "it": 1462,
+      "nl": 1628,
+      "en": 1646,
+      "es": 1433
+    },
+    "examples": 13248,
+    "pairs_attested": 0,
+    "learned": 10,
+    "mastered": 0
+  },
+  "pairs": [
+    {
+      "native": "fr",
+      "target": "nl",
+      "cefr": {
+        "level": null,
+        "next": "A1",
+        "progress_to_next": 0.0015541621,
+        "coverage_next": 0.024930747,
+        "mastery_next": 0.06233917,
+        "confidence": 0.0
+      },
+      "tier_scores": {
+        "ll-1": {
+          "weighted_effective": 0.06233917,
+          "mean_confidence": 0.062339168,
+          "n_senses": 361,
+          "n_tested": 9,
+          "coverage": 0.024930747,
+          "global": 0.0015541621,
+          "level": "fragile"
+        },
+        "ll-2": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 630,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-3": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 530,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-4": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 687,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-5": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 0,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-6": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 0,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-7": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 0,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        }
+      }
+    },
+    {
+      "native": "en",
+      "target": "fr",
+      "cefr": {
+        "level": null,
+        "next": "A1",
+        "progress_to_next": 0.00017289323,
+        "coverage_next": 0.002770083,
+        "mastery_next": 0.062414456,
+        "confidence": 0.0
+      },
+      "tier_scores": {
+        "ll-1": {
+          "weighted_effective": 0.062414456,
+          "mean_confidence": 0.062414456,
+          "n_senses": 361,
+          "n_tested": 1,
+          "coverage": 0.002770083,
+          "global": 0.00017289323,
+          "level": "fragile"
+        },
+        "ll-2": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 630,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-3": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 530,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-4": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 687,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-5": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 0,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-6": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 0,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-7": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 0,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        }
+      }
+    },
+    {
+      "native": "en",
+      "target": "nl",
+      "cefr": {
+        "level": null,
+        "next": "A1",
+        "progress_to_next": 0.0015541621,
+        "coverage_next": 0.024930747,
+        "mastery_next": 0.06233917,
+        "confidence": 0.0
+      },
+      "tier_scores": {
+        "ll-1": {
+          "weighted_effective": 0.06233917,
+          "mean_confidence": 0.062339168,
+          "n_senses": 361,
+          "n_tested": 9,
+          "coverage": 0.024930747,
+          "global": 0.0015541621,
+          "level": "fragile"
+        },
+        "ll-2": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 630,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-3": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 530,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-4": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 687,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-5": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 0,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-6": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 0,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-7": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 0,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        }
+      }
+    },
+    {
+      "native": "nl",
+      "target": "fr",
+      "cefr": {
+        "level": null,
+        "next": "A1",
+        "progress_to_next": 0.00017289323,
+        "coverage_next": 0.002770083,
+        "mastery_next": 0.062414456,
+        "confidence": 0.0
+      },
+      "tier_scores": {
+        "ll-1": {
+          "weighted_effective": 0.062414456,
+          "mean_confidence": 0.062414456,
+          "n_senses": 361,
+          "n_tested": 1,
+          "coverage": 0.002770083,
+          "global": 0.00017289323,
+          "level": "fragile"
+        },
+        "ll-2": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 630,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-3": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 530,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-4": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 687,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-5": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 0,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-6": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 0,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-7": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 0,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        }
+      }
+    },
+    {
+      "native": "es",
+      "target": "fr",
+      "cefr": {
+        "level": null,
+        "next": "A1",
+        "progress_to_next": 0.00017289323,
+        "coverage_next": 0.002770083,
+        "mastery_next": 0.062414456,
+        "confidence": 0.0
+      },
+      "tier_scores": {
+        "ll-1": {
+          "weighted_effective": 0.062414456,
+          "mean_confidence": 0.062414456,
+          "n_senses": 361,
+          "n_tested": 1,
+          "coverage": 0.002770083,
+          "global": 0.00017289323,
+          "level": "fragile"
+        },
+        "ll-2": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 630,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-3": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 530,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-4": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 687,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-5": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 0,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-6": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 0,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-7": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 0,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        }
+      }
+    },
+    {
+      "native": "es",
+      "target": "nl",
+      "cefr": {
+        "level": null,
+        "next": "A1",
+        "progress_to_next": 0.0015541621,
+        "coverage_next": 0.024930747,
+        "mastery_next": 0.06233917,
+        "confidence": 0.0
+      },
+      "tier_scores": {
+        "ll-1": {
+          "weighted_effective": 0.06233917,
+          "mean_confidence": 0.062339168,
+          "n_senses": 361,
+          "n_tested": 9,
+          "coverage": 0.024930747,
+          "global": 0.0015541621,
+          "level": "fragile"
+        },
+        "ll-2": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 630,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-3": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 530,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-4": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 687,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-5": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 0,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-6": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 0,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-7": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 0,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        }
+      }
+    },
+    {
+      "native": "de",
+      "target": "fr",
+      "cefr": {
+        "level": null,
+        "next": "A1",
+        "progress_to_next": 0.00017289323,
+        "coverage_next": 0.002770083,
+        "mastery_next": 0.062414456,
+        "confidence": 0.0
+      },
+      "tier_scores": {
+        "ll-1": {
+          "weighted_effective": 0.062414456,
+          "mean_confidence": 0.062414456,
+          "n_senses": 361,
+          "n_tested": 1,
+          "coverage": 0.002770083,
+          "global": 0.00017289323,
+          "level": "fragile"
+        },
+        "ll-2": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 630,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-3": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 530,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-4": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 687,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-5": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 0,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-6": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 0,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-7": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 0,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        }
+      }
+    },
+    {
+      "native": "de",
+      "target": "nl",
+      "cefr": {
+        "level": null,
+        "next": "A1",
+        "progress_to_next": 0.0015541621,
+        "coverage_next": 0.024930747,
+        "mastery_next": 0.06233917,
+        "confidence": 0.0
+      },
+      "tier_scores": {
+        "ll-1": {
+          "weighted_effective": 0.06233917,
+          "mean_confidence": 0.062339168,
+          "n_senses": 361,
+          "n_tested": 9,
+          "coverage": 0.024930747,
+          "global": 0.0015541621,
+          "level": "fragile"
+        },
+        "ll-2": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 630,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-3": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 530,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-4": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 687,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-5": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 0,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-6": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 0,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-7": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 0,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        }
+      }
+    },
+    {
+      "native": "it",
+      "target": "fr",
+      "cefr": {
+        "level": null,
+        "next": "A1",
+        "progress_to_next": 0.00017289323,
+        "coverage_next": 0.002770083,
+        "mastery_next": 0.062414456,
+        "confidence": 0.0
+      },
+      "tier_scores": {
+        "ll-1": {
+          "weighted_effective": 0.062414456,
+          "mean_confidence": 0.062414456,
+          "n_senses": 361,
+          "n_tested": 1,
+          "coverage": 0.002770083,
+          "global": 0.00017289323,
+          "level": "fragile"
+        },
+        "ll-2": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 630,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-3": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 530,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-4": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 687,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-5": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 0,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-6": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 0,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-7": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 0,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        }
+      }
+    },
+    {
+      "native": "it",
+      "target": "nl",
+      "cefr": {
+        "level": null,
+        "next": "A1",
+        "progress_to_next": 0.0015541621,
+        "coverage_next": 0.024930747,
+        "mastery_next": 0.06233917,
+        "confidence": 0.0
+      },
+      "tier_scores": {
+        "ll-1": {
+          "weighted_effective": 0.06233917,
+          "mean_confidence": 0.062339168,
+          "n_senses": 361,
+          "n_tested": 9,
+          "coverage": 0.024930747,
+          "global": 0.0015541621,
+          "level": "fragile"
+        },
+        "ll-2": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 630,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-3": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 530,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-4": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 687,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-5": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 0,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-6": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 0,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-7": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "n_senses": 0,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        }
+      }
+    }
+  ]
+}
