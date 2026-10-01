@@ -1,18 +1,18 @@
 {
   "user_name": "default",
-  "generated_at": 1783326396,
+  "generated_at": 1790864617,
   "global": {
     "words_by_lang": {
-      "fr": 1368,
-      "it": 1462,
-      "en": 1646,
-      "nl": 1628,
-      "de": 1489,
-      "es": 1433
+      "de": 5564,
+      "es": 4954,
+      "it": 5202,
+      "nl": 5466,
+      "fr": 4833,
+      "en": 5960
     },
-    "examples": 13248,
+    "examples": 53178,
     "pairs_attested": 0,
-    "learned": 10,
+    "learned": 549,
     "mastered": 0
   },
   "pairs": [
@@ -22,25 +22,27 @@
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.0015541619,
-        "coverage_next": 0.024930747,
-        "mastery_next": 0.062339164,
+        "progress_to_next": 0.050337996,
+        "coverage_next": 0.4548552,
+        "mastery_next": 0.110668175,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.062339164,
-          "mean_confidence": 0.06233916,
-          "n_senses": 361,
-          "n_tested": 9,
-          "coverage": 0.024930747,
-          "global": 0.0015541619,
+          "weighted_effective": 0.110668175,
+          "mean_confidence": 0.10964164,
+          "mean_score": 0.98377025,
+          "n_senses": 1174,
+          "n_tested": 534,
+          "coverage": 0.4548552,
+          "global": 0.050337996,
           "level": "fragile"
         },
         "ll-2": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 630,
+          "mean_score": 0.0,
+          "n_senses": 1415,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -49,7 +51,8 @@
         "ll-3": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 530,
+          "mean_score": 0.0,
+          "n_senses": 1010,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -58,7 +61,8 @@
         "ll-4": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 687,
+          "mean_score": 0.0,
+          "n_senses": 1351,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -67,7 +71,8 @@
         "ll-5": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 0,
+          "mean_score": 0.0,
+          "n_senses": 1033,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -76,7 +81,8 @@
         "ll-6": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 0,
+          "mean_score": 0.0,
+          "n_senses": 1116,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -85,7 +91,8 @@
         "ll-7": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 0,
+          "mean_score": 0.0,
+          "n_senses": 1764,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -94,30 +101,32 @@
       }
     },
     {
-      "native": "en",
-      "target": "fr",
+      "native": "fr",
+      "target": "es",
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.00017289321,
-        "coverage_next": 0.002770083,
-        "mastery_next": 0.062414452,
+        "progress_to_next": 0.0006792807,
+        "coverage_next": 0.012776831,
+        "mastery_next": 0.05316504,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.062414452,
-          "mean_confidence": 0.062414452,
-          "n_senses": 361,
-          "n_tested": 1,
-          "coverage": 0.002770083,
-          "global": 0.00017289321,
+          "weighted_effective": 0.05316504,
+          "mean_confidence": 0.056962546,
+          "mean_score": 0.93333334,
+          "n_senses": 1174,
+          "n_tested": 15,
+          "coverage": 0.012776831,
+          "global": 0.0006792807,
           "level": "fragile"
         },
         "ll-2": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 630,
+          "mean_score": 0.0,
+          "n_senses": 1415,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -126,7 +135,8 @@
         "ll-3": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 530,
+          "mean_score": 0.0,
+          "n_senses": 1010,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -135,7 +145,8 @@
         "ll-4": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 687,
+          "mean_score": 0.0,
+          "n_senses": 1351,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -144,7 +155,8 @@
         "ll-5": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 0,
+          "mean_score": 0.0,
+          "n_senses": 1033,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -153,7 +165,8 @@
         "ll-6": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 0,
+          "mean_score": 0.0,
+          "n_senses": 1116,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -162,7 +175,8 @@
         "ll-7": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 0,
+          "mean_score": 0.0,
+          "n_senses": 1764,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -176,25 +190,27 @@
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.0015541619,
-        "coverage_next": 0.024930747,
-        "mastery_next": 0.062339164,
+        "progress_to_next": 0.050337996,
+        "coverage_next": 0.4548552,
+        "mastery_next": 0.110668175,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.062339164,
-          "mean_confidence": 0.06233916,
-          "n_senses": 361,
-          "n_tested": 9,
-          "coverage": 0.024930747,
-          "global": 0.0015541619,
+          "weighted_effective": 0.110668175,
+          "mean_confidence": 0.10964164,
+          "mean_score": 0.98377025,
+          "n_senses": 1174,
+          "n_tested": 534,
+          "coverage": 0.4548552,
+          "global": 0.050337996,
           "level": "fragile"
         },
         "ll-2": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 630,
+          "mean_score": 0.0,
+          "n_senses": 1415,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -203,7 +219,8 @@
         "ll-3": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 530,
+          "mean_score": 0.0,
+          "n_senses": 1010,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -212,7 +229,8 @@
         "ll-4": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 687,
+          "mean_score": 0.0,
+          "n_senses": 1351,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -221,7 +239,8 @@
         "ll-5": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 0,
+          "mean_score": 0.0,
+          "n_senses": 1033,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -230,7 +249,8 @@
         "ll-6": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 0,
+          "mean_score": 0.0,
+          "n_senses": 1116,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -239,7 +259,92 @@
         "ll-7": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 0,
+          "mean_score": 0.0,
+          "n_senses": 1764,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        }
+      }
+    },
+    {
+      "native": "en",
+      "target": "es",
+      "cefr": {
+        "level": null,
+        "next": "A1",
+        "progress_to_next": 0.0006792807,
+        "coverage_next": 0.012776831,
+        "mastery_next": 0.05316504,
+        "confidence": 0.0
+      },
+      "tier_scores": {
+        "ll-1": {
+          "weighted_effective": 0.05316504,
+          "mean_confidence": 0.056962546,
+          "mean_score": 0.93333334,
+          "n_senses": 1174,
+          "n_tested": 15,
+          "coverage": 0.012776831,
+          "global": 0.0006792807,
+          "level": "fragile"
+        },
+        "ll-2": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "mean_score": 0.0,
+          "n_senses": 1415,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-3": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "mean_score": 0.0,
+          "n_senses": 1010,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-4": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "mean_score": 0.0,
+          "n_senses": 1351,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-5": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "mean_score": 0.0,
+          "n_senses": 1033,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-6": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "mean_score": 0.0,
+          "n_senses": 1116,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-7": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "mean_score": 0.0,
+          "n_senses": 1764,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -249,29 +354,31 @@
     },
     {
       "native": "nl",
-      "target": "fr",
+      "target": "es",
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.00017289321,
-        "coverage_next": 0.002770083,
-        "mastery_next": 0.062414452,
+        "progress_to_next": 0.0006792807,
+        "coverage_next": 0.012776831,
+        "mastery_next": 0.05316504,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.062414452,
-          "mean_confidence": 0.062414452,
-          "n_senses": 361,
-          "n_tested": 1,
-          "coverage": 0.002770083,
-          "global": 0.00017289321,
+          "weighted_effective": 0.05316504,
+          "mean_confidence": 0.056962546,
+          "mean_score": 0.93333334,
+          "n_senses": 1174,
+          "n_tested": 15,
+          "coverage": 0.012776831,
+          "global": 0.0006792807,
           "level": "fragile"
         },
         "ll-2": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 630,
+          "mean_score": 0.0,
+          "n_senses": 1415,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -280,7 +387,8 @@
         "ll-3": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 530,
+          "mean_score": 0.0,
+          "n_senses": 1010,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -289,7 +397,8 @@
         "ll-4": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 687,
+          "mean_score": 0.0,
+          "n_senses": 1351,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -298,7 +407,8 @@
         "ll-5": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 0,
+          "mean_score": 0.0,
+          "n_senses": 1033,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -307,7 +417,8 @@
         "ll-6": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 0,
+          "mean_score": 0.0,
+          "n_senses": 1116,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -316,84 +427,8 @@
         "ll-7": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 0,
-          "n_tested": 0,
-          "coverage": 0.0,
-          "global": 0.0,
-          "level": "not_started"
-        }
-      }
-    },
-    {
-      "native": "es",
-      "target": "fr",
-      "cefr": {
-        "level": null,
-        "next": "A1",
-        "progress_to_next": 0.00017289321,
-        "coverage_next": 0.002770083,
-        "mastery_next": 0.062414452,
-        "confidence": 0.0
-      },
-      "tier_scores": {
-        "ll-1": {
-          "weighted_effective": 0.062414452,
-          "mean_confidence": 0.062414452,
-          "n_senses": 361,
-          "n_tested": 1,
-          "coverage": 0.002770083,
-          "global": 0.00017289321,
-          "level": "fragile"
-        },
-        "ll-2": {
-          "weighted_effective": 0.0,
-          "mean_confidence": 0.0,
-          "n_senses": 630,
-          "n_tested": 0,
-          "coverage": 0.0,
-          "global": 0.0,
-          "level": "not_started"
-        },
-        "ll-3": {
-          "weighted_effective": 0.0,
-          "mean_confidence": 0.0,
-          "n_senses": 530,
-          "n_tested": 0,
-          "coverage": 0.0,
-          "global": 0.0,
-          "level": "not_started"
-        },
-        "ll-4": {
-          "weighted_effective": 0.0,
-          "mean_confidence": 0.0,
-          "n_senses": 687,
-          "n_tested": 0,
-          "coverage": 0.0,
-          "global": 0.0,
-          "level": "not_started"
-        },
-        "ll-5": {
-          "weighted_effective": 0.0,
-          "mean_confidence": 0.0,
-          "n_senses": 0,
-          "n_tested": 0,
-          "coverage": 0.0,
-          "global": 0.0,
-          "level": "not_started"
-        },
-        "ll-6": {
-          "weighted_effective": 0.0,
-          "mean_confidence": 0.0,
-          "n_senses": 0,
-          "n_tested": 0,
-          "coverage": 0.0,
-          "global": 0.0,
-          "level": "not_started"
-        },
-        "ll-7": {
-          "weighted_effective": 0.0,
-          "mean_confidence": 0.0,
-          "n_senses": 0,
+          "mean_score": 0.0,
+          "n_senses": 1764,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -407,25 +442,27 @@
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.0015541619,
-        "coverage_next": 0.024930747,
-        "mastery_next": 0.062339164,
+        "progress_to_next": 0.050337996,
+        "coverage_next": 0.4548552,
+        "mastery_next": 0.110668175,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.062339164,
-          "mean_confidence": 0.06233916,
-          "n_senses": 361,
-          "n_tested": 9,
-          "coverage": 0.024930747,
-          "global": 0.0015541619,
+          "weighted_effective": 0.110668175,
+          "mean_confidence": 0.10964164,
+          "mean_score": 0.98377025,
+          "n_senses": 1174,
+          "n_tested": 534,
+          "coverage": 0.4548552,
+          "global": 0.050337996,
           "level": "fragile"
         },
         "ll-2": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 630,
+          "mean_score": 0.0,
+          "n_senses": 1415,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -434,7 +471,8 @@
         "ll-3": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 530,
+          "mean_score": 0.0,
+          "n_senses": 1010,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -443,7 +481,8 @@
         "ll-4": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 687,
+          "mean_score": 0.0,
+          "n_senses": 1351,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -452,7 +491,8 @@
         "ll-5": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 0,
+          "mean_score": 0.0,
+          "n_senses": 1033,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -461,7 +501,8 @@
         "ll-6": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 0,
+          "mean_score": 0.0,
+          "n_senses": 1116,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -470,84 +511,8 @@
         "ll-7": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 0,
-          "n_tested": 0,
-          "coverage": 0.0,
-          "global": 0.0,
-          "level": "not_started"
-        }
-      }
-    },
-    {
-      "native": "de",
-      "target": "fr",
-      "cefr": {
-        "level": null,
-        "next": "A1",
-        "progress_to_next": 0.00017289321,
-        "coverage_next": 0.002770083,
-        "mastery_next": 0.062414452,
-        "confidence": 0.0
-      },
-      "tier_scores": {
-        "ll-1": {
-          "weighted_effective": 0.062414452,
-          "mean_confidence": 0.062414452,
-          "n_senses": 361,
-          "n_tested": 1,
-          "coverage": 0.002770083,
-          "global": 0.00017289321,
-          "level": "fragile"
-        },
-        "ll-2": {
-          "weighted_effective": 0.0,
-          "mean_confidence": 0.0,
-          "n_senses": 630,
-          "n_tested": 0,
-          "coverage": 0.0,
-          "global": 0.0,
-          "level": "not_started"
-        },
-        "ll-3": {
-          "weighted_effective": 0.0,
-          "mean_confidence": 0.0,
-          "n_senses": 530,
-          "n_tested": 0,
-          "coverage": 0.0,
-          "global": 0.0,
-          "level": "not_started"
-        },
-        "ll-4": {
-          "weighted_effective": 0.0,
-          "mean_confidence": 0.0,
-          "n_senses": 687,
-          "n_tested": 0,
-          "coverage": 0.0,
-          "global": 0.0,
-          "level": "not_started"
-        },
-        "ll-5": {
-          "weighted_effective": 0.0,
-          "mean_confidence": 0.0,
-          "n_senses": 0,
-          "n_tested": 0,
-          "coverage": 0.0,
-          "global": 0.0,
-          "level": "not_started"
-        },
-        "ll-6": {
-          "weighted_effective": 0.0,
-          "mean_confidence": 0.0,
-          "n_senses": 0,
-          "n_tested": 0,
-          "coverage": 0.0,
-          "global": 0.0,
-          "level": "not_started"
-        },
-        "ll-7": {
-          "weighted_effective": 0.0,
-          "mean_confidence": 0.0,
-          "n_senses": 0,
+          "mean_score": 0.0,
+          "n_senses": 1764,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -561,25 +526,27 @@
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.0015541619,
-        "coverage_next": 0.024930747,
-        "mastery_next": 0.062339164,
+        "progress_to_next": 0.050337996,
+        "coverage_next": 0.4548552,
+        "mastery_next": 0.110668175,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.062339164,
-          "mean_confidence": 0.06233916,
-          "n_senses": 361,
-          "n_tested": 9,
-          "coverage": 0.024930747,
-          "global": 0.0015541619,
+          "weighted_effective": 0.110668175,
+          "mean_confidence": 0.10964164,
+          "mean_score": 0.98377025,
+          "n_senses": 1174,
+          "n_tested": 534,
+          "coverage": 0.4548552,
+          "global": 0.050337996,
           "level": "fragile"
         },
         "ll-2": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 630,
+          "mean_score": 0.0,
+          "n_senses": 1415,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -588,7 +555,8 @@
         "ll-3": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 530,
+          "mean_score": 0.0,
+          "n_senses": 1010,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -597,7 +565,8 @@
         "ll-4": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 687,
+          "mean_score": 0.0,
+          "n_senses": 1351,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -606,7 +575,8 @@
         "ll-5": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 0,
+          "mean_score": 0.0,
+          "n_senses": 1033,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -615,7 +585,8 @@
         "ll-6": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 0,
+          "mean_score": 0.0,
+          "n_senses": 1116,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -624,7 +595,8 @@
         "ll-7": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 0,
+          "mean_score": 0.0,
+          "n_senses": 1764,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -633,30 +605,32 @@
       }
     },
     {
-      "native": "it",
-      "target": "fr",
+      "native": "de",
+      "target": "es",
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.00017289321,
-        "coverage_next": 0.002770083,
-        "mastery_next": 0.062414452,
+        "progress_to_next": 0.0006792807,
+        "coverage_next": 0.012776831,
+        "mastery_next": 0.05316504,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.062414452,
-          "mean_confidence": 0.062414452,
-          "n_senses": 361,
-          "n_tested": 1,
-          "coverage": 0.002770083,
-          "global": 0.00017289321,
+          "weighted_effective": 0.05316504,
+          "mean_confidence": 0.056962546,
+          "mean_score": 0.93333334,
+          "n_senses": 1174,
+          "n_tested": 15,
+          "coverage": 0.012776831,
+          "global": 0.0006792807,
           "level": "fragile"
         },
         "ll-2": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 630,
+          "mean_score": 0.0,
+          "n_senses": 1415,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -665,7 +639,8 @@
         "ll-3": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 530,
+          "mean_score": 0.0,
+          "n_senses": 1010,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -674,7 +649,8 @@
         "ll-4": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 687,
+          "mean_score": 0.0,
+          "n_senses": 1351,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -683,7 +659,8 @@
         "ll-5": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 0,
+          "mean_score": 0.0,
+          "n_senses": 1033,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -692,7 +669,8 @@
         "ll-6": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 0,
+          "mean_score": 0.0,
+          "n_senses": 1116,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -701,7 +679,8 @@
         "ll-7": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 0,
+          "mean_score": 0.0,
+          "n_senses": 1764,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -715,25 +694,27 @@
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.0015541619,
-        "coverage_next": 0.024930747,
-        "mastery_next": 0.062339164,
+        "progress_to_next": 0.050337996,
+        "coverage_next": 0.4548552,
+        "mastery_next": 0.110668175,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.062339164,
-          "mean_confidence": 0.06233916,
-          "n_senses": 361,
-          "n_tested": 9,
-          "coverage": 0.024930747,
-          "global": 0.0015541619,
+          "weighted_effective": 0.110668175,
+          "mean_confidence": 0.10964164,
+          "mean_score": 0.98377025,
+          "n_senses": 1174,
+          "n_tested": 534,
+          "coverage": 0.4548552,
+          "global": 0.050337996,
           "level": "fragile"
         },
         "ll-2": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 630,
+          "mean_score": 0.0,
+          "n_senses": 1415,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -742,7 +723,8 @@
         "ll-3": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 530,
+          "mean_score": 0.0,
+          "n_senses": 1010,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -751,7 +733,8 @@
         "ll-4": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 687,
+          "mean_score": 0.0,
+          "n_senses": 1351,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -760,7 +743,8 @@
         "ll-5": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 0,
+          "mean_score": 0.0,
+          "n_senses": 1033,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -769,7 +753,8 @@
         "ll-6": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 0,
+          "mean_score": 0.0,
+          "n_senses": 1116,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
@@ -778,7 +763,92 @@
         "ll-7": {
           "weighted_effective": 0.0,
           "mean_confidence": 0.0,
-          "n_senses": 0,
+          "mean_score": 0.0,
+          "n_senses": 1764,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        }
+      }
+    },
+    {
+      "native": "it",
+      "target": "es",
+      "cefr": {
+        "level": null,
+        "next": "A1",
+        "progress_to_next": 0.0006792807,
+        "coverage_next": 0.012776831,
+        "mastery_next": 0.05316504,
+        "confidence": 0.0
+      },
+      "tier_scores": {
+        "ll-1": {
+          "weighted_effective": 0.05316504,
+          "mean_confidence": 0.056962546,
+          "mean_score": 0.93333334,
+          "n_senses": 1174,
+          "n_tested": 15,
+          "coverage": 0.012776831,
+          "global": 0.0006792807,
+          "level": "fragile"
+        },
+        "ll-2": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "mean_score": 0.0,
+          "n_senses": 1415,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-3": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "mean_score": 0.0,
+          "n_senses": 1010,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-4": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "mean_score": 0.0,
+          "n_senses": 1351,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-5": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "mean_score": 0.0,
+          "n_senses": 1033,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-6": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "mean_score": 0.0,
+          "n_senses": 1116,
+          "n_tested": 0,
+          "coverage": 0.0,
+          "global": 0.0,
+          "level": "not_started"
+        },
+        "ll-7": {
+          "weighted_effective": 0.0,
+          "mean_confidence": 0.0,
+          "mean_score": 0.0,
+          "n_senses": 1764,
           "n_tested": 0,
           "coverage": 0.0,
           "global": 0.0,
