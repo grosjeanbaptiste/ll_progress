@@ -1,27 +1,42 @@
 # LL Progress — default
 
-_Snapshot généré le <t:1790865785:F>_
+_Snapshot généré le <t:1790929996:F>_
 
 ## Stats globales
-- **31979** lemmes distincts
-- **53178** phrases d'exemple
-- **549** cartes apprises
+- **32239** lemmes distincts
+- **53112** phrases d'exemple
+- **841** cartes apprises
 - **0** cartes maîtrisées
 
 ## Par paire
 
 | Paire | Niveau | Prochain | Progression |
 |---|---|---|---|
-| FR → NL | **≺ A1** | A1 | 45% vu · 11% acquis |
-| FR → ES | **≺ A1** | A1 | 1% vu · 5% acquis |
-| EN → NL | **≺ A1** | A1 | 45% vu · 11% acquis |
-| EN → ES | **≺ A1** | A1 | 1% vu · 5% acquis |
-| NL → ES | **≺ A1** | A1 | 1% vu · 5% acquis |
-| ES → NL | **≺ A1** | A1 | 45% vu · 11% acquis |
-| DE → NL | **≺ A1** | A1 | 45% vu · 11% acquis |
-| DE → ES | **≺ A1** | A1 | 1% vu · 5% acquis |
-| IT → NL | **≺ A1** | A1 | 45% vu · 11% acquis |
-| IT → ES | **≺ A1** | A1 | 1% vu · 5% acquis |
+| FR → EN | **≺ A1** | A1 | 14% vu · 14% acquis |
+| FR → NL | **≺ A1** | A1 | 45% vu · 45% acquis |
+| FR → ES | **≺ A1** | A1 | 1% vu · 1% acquis |
+| FR → DE | **≺ A1** | A1 | 2% vu · 2% acquis |
+| FR → IT | **≺ A1** | A1 | 9% vu · 7% acquis |
+| EN → NL | **≺ A1** | A1 | 45% vu · 45% acquis |
+| EN → ES | **≺ A1** | A1 | 1% vu · 1% acquis |
+| EN → DE | **≺ A1** | A1 | 2% vu · 2% acquis |
+| EN → IT | **≺ A1** | A1 | 9% vu · 7% acquis |
+| NL → EN | **≺ A1** | A1 | 14% vu · 14% acquis |
+| NL → ES | **≺ A1** | A1 | 1% vu · 1% acquis |
+| NL → DE | **≺ A1** | A1 | 2% vu · 2% acquis |
+| NL → IT | **≺ A1** | A1 | 9% vu · 7% acquis |
+| ES → EN | **≺ A1** | A1 | 14% vu · 14% acquis |
+| ES → NL | **≺ A1** | A1 | 45% vu · 45% acquis |
+| ES → DE | **≺ A1** | A1 | 2% vu · 2% acquis |
+| ES → IT | **≺ A1** | A1 | 9% vu · 7% acquis |
+| DE → EN | **≺ A1** | A1 | 14% vu · 14% acquis |
+| DE → NL | **≺ A1** | A1 | 45% vu · 45% acquis |
+| DE → ES | **≺ A1** | A1 | 1% vu · 1% acquis |
+| DE → IT | **≺ A1** | A1 | 9% vu · 7% acquis |
+| IT → EN | **≺ A1** | A1 | 14% vu · 14% acquis |
+| IT → NL | **≺ A1** | A1 | 45% vu · 45% acquis |
+| IT → ES | **≺ A1** | A1 | 1% vu · 1% acquis |
+| IT → DE | **≺ A1** | A1 | 2% vu · 2% acquis |
 
 ---
 _Produit par [LL](https://github.com/grosjeanbaptiste/ll_app)._
