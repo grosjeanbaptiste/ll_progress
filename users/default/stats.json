@@ -1,18 +1,18 @@
 {
   "user_name": "default",
-  "generated_at": 1790929996,
+  "generated_at": 1791020562,
   "global": {
     "words_by_lang": {
-      "en": 5949,
-      "fr": 4892,
-      "de": 5607,
-      "es": 5020,
       "it": 5250,
-      "nl": 5521
+      "es": 5020,
+      "fr": 4892,
+      "en": 5949,
+      "nl": 5521,
+      "de": 5607
     },
     "examples": 53112,
     "pairs_attested": 0,
-    "learned": 841,
+    "learned": 1041,
     "mastered": 0
   },
   "pairs": [
@@ -22,20 +22,20 @@
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.008833103,
+        "progress_to_next": 0.008820428,
         "coverage_next": 0.14163822,
         "mastery_next": 0.14078498,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.06236384,
-          "mean_confidence": 0.06310998,
+          "weighted_effective": 0.062274344,
+          "mean_confidence": 0.063019425,
           "mean_score": 0.9939759,
           "n_senses": 1172,
           "n_tested": 166,
           "coverage": 0.14163822,
-          "global": 0.008833103,
+          "global": 0.008820428,
           "level": "fragile"
         },
         "ll-2": {
@@ -106,20 +106,20 @@
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.05600642,
-        "coverage_next": 0.45392492,
-        "mastery_next": 0.44653013,
+        "progress_to_next": 0.08942952,
+        "coverage_next": 0.62457335,
+        "mastery_next": 0.61186004,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.12338256,
-          "mean_confidence": 0.11835208,
-          "mean_score": 0.9837092,
+          "weighted_effective": 0.14318497,
+          "mean_confidence": 0.12624441,
+          "mean_score": 0.9796448,
           "n_senses": 1172,
-          "n_tested": 532,
-          "coverage": 0.45392492,
-          "global": 0.05600642,
+          "n_tested": 732,
+          "coverage": 0.62457335,
+          "global": 0.08942952,
           "level": "fragile"
         },
         "ll-2": {
@@ -190,20 +190,20 @@
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.00067973504,
+        "progress_to_next": 0.00067875965,
         "coverage_next": 0.012798634,
         "mastery_next": 0.011945392,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.053109966,
-          "mean_confidence": 0.056903526,
+          "weighted_effective": 0.053033758,
+          "mean_confidence": 0.05682188,
           "mean_score": 0.93333334,
           "n_senses": 1172,
           "n_tested": 15,
           "coverage": 0.012798634,
-          "global": 0.00067973504,
+          "global": 0.00067875965,
           "level": "fragile"
         },
         "ll-2": {
@@ -274,20 +274,20 @@
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.0011722208,
+        "progress_to_next": 0.001170539,
         "coverage_next": 0.023037544,
         "mastery_next": 0.018771332,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.050883066,
-          "mean_confidence": 0.062447414,
+          "weighted_effective": 0.05081006,
+          "mean_confidence": 0.0623578,
           "mean_score": 0.8148148,
           "n_senses": 1172,
           "n_tested": 27,
           "coverage": 0.023037544,
-          "global": 0.0011722208,
+          "global": 0.001170539,
           "level": "fragile"
         },
         "ll-2": {
@@ -358,20 +358,20 @@
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.0047813524,
+        "progress_to_next": 0.0047744922,
         "coverage_next": 0.086177476,
         "mastery_next": 0.07423208,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.055482622,
-          "mean_confidence": 0.06408475,
+          "weighted_effective": 0.055403017,
+          "mean_confidence": 0.063992806,
           "mean_score": 0.8613861,
           "n_senses": 1172,
           "n_tested": 101,
           "coverage": 0.086177476,
-          "global": 0.0047813524,
+          "global": 0.0047744922,
           "level": "fragile"
         },
         "ll-2": {
@@ -442,20 +442,20 @@
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.05600642,
-        "coverage_next": 0.45392492,
-        "mastery_next": 0.44653013,
+        "progress_to_next": 0.08942952,
+        "coverage_next": 0.62457335,
+        "mastery_next": 0.61186004,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.12338256,
-          "mean_confidence": 0.11835208,
-          "mean_score": 0.9837092,
+          "weighted_effective": 0.14318497,
+          "mean_confidence": 0.12624441,
+          "mean_score": 0.9796448,
           "n_senses": 1172,
-          "n_tested": 532,
-          "coverage": 0.45392492,
-          "global": 0.05600642,
+          "n_tested": 732,
+          "coverage": 0.62457335,
+          "global": 0.08942952,
           "level": "fragile"
         },
         "ll-2": {
@@ -526,20 +526,20 @@
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.00067973504,
+        "progress_to_next": 0.00067875965,
         "coverage_next": 0.012798634,
         "mastery_next": 0.011945392,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.053109966,
-          "mean_confidence": 0.056903526,
+          "weighted_effective": 0.053033758,
+          "mean_confidence": 0.05682188,
           "mean_score": 0.93333334,
           "n_senses": 1172,
           "n_tested": 15,
           "coverage": 0.012798634,
-          "global": 0.00067973504,
+          "global": 0.00067875965,
           "level": "fragile"
         },
         "ll-2": {
@@ -610,20 +610,20 @@
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.0011722208,
+        "progress_to_next": 0.001170539,
         "coverage_next": 0.023037544,
         "mastery_next": 0.018771332,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.050883066,
-          "mean_confidence": 0.062447414,
+          "weighted_effective": 0.05081006,
+          "mean_confidence": 0.0623578,
           "mean_score": 0.8148148,
           "n_senses": 1172,
           "n_tested": 27,
           "coverage": 0.023037544,
-          "global": 0.0011722208,
+          "global": 0.001170539,
           "level": "fragile"
         },
         "ll-2": {
@@ -694,20 +694,20 @@
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.0047813524,
+        "progress_to_next": 0.0047744922,
         "coverage_next": 0.086177476,
         "mastery_next": 0.07423208,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.055482622,
-          "mean_confidence": 0.06408475,
+          "weighted_effective": 0.055403017,
+          "mean_confidence": 0.063992806,
           "mean_score": 0.8613861,
           "n_senses": 1172,
           "n_tested": 101,
           "coverage": 0.086177476,
-          "global": 0.0047813524,
+          "global": 0.0047744922,
           "level": "fragile"
         },
         "ll-2": {
@@ -778,20 +778,20 @@
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.008833103,
+        "progress_to_next": 0.008820428,
         "coverage_next": 0.14163822,
         "mastery_next": 0.14078498,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.06236384,
-          "mean_confidence": 0.06310998,
+          "weighted_effective": 0.062274344,
+          "mean_confidence": 0.063019425,
           "mean_score": 0.9939759,
           "n_senses": 1172,
           "n_tested": 166,
           "coverage": 0.14163822,
-          "global": 0.008833103,
+          "global": 0.008820428,
           "level": "fragile"
         },
         "ll-2": {
@@ -862,20 +862,20 @@
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.00067973504,
+        "progress_to_next": 0.00067875965,
         "coverage_next": 0.012798634,
         "mastery_next": 0.011945392,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.053109966,
-          "mean_confidence": 0.056903526,
+          "weighted_effective": 0.053033758,
+          "mean_confidence": 0.05682188,
           "mean_score": 0.93333334,
           "n_senses": 1172,
           "n_tested": 15,
           "coverage": 0.012798634,
-          "global": 0.00067973504,
+          "global": 0.00067875965,
           "level": "fragile"
         },
         "ll-2": {
@@ -946,20 +946,20 @@
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.0011722208,
+        "progress_to_next": 0.001170539,
         "coverage_next": 0.023037544,
         "mastery_next": 0.018771332,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.050883066,
-          "mean_confidence": 0.062447414,
+          "weighted_effective": 0.05081006,
+          "mean_confidence": 0.0623578,
           "mean_score": 0.8148148,
           "n_senses": 1172,
           "n_tested": 27,
           "coverage": 0.023037544,
-          "global": 0.0011722208,
+          "global": 0.001170539,
           "level": "fragile"
         },
         "ll-2": {
@@ -1030,20 +1030,20 @@
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.0047813524,
+        "progress_to_next": 0.0047744922,
         "coverage_next": 0.086177476,
         "mastery_next": 0.07423208,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.055482622,
-          "mean_confidence": 0.06408475,
+          "weighted_effective": 0.055403017,
+          "mean_confidence": 0.063992806,
           "mean_score": 0.8613861,
           "n_senses": 1172,
           "n_tested": 101,
           "coverage": 0.086177476,
-          "global": 0.0047813524,
+          "global": 0.0047744922,
           "level": "fragile"
         },
         "ll-2": {
@@ -1114,20 +1114,20 @@
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.008833103,
+        "progress_to_next": 0.008820428,
         "coverage_next": 0.14163822,
         "mastery_next": 0.14078498,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.06236384,
-          "mean_confidence": 0.06310998,
+          "weighted_effective": 0.062274344,
+          "mean_confidence": 0.063019425,
           "mean_score": 0.9939759,
           "n_senses": 1172,
           "n_tested": 166,
           "coverage": 0.14163822,
-          "global": 0.008833103,
+          "global": 0.008820428,
           "level": "fragile"
         },
         "ll-2": {
@@ -1198,20 +1198,20 @@
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.05600642,
-        "coverage_next": 0.45392492,
-        "mastery_next": 0.44653013,
+        "progress_to_next": 0.08942952,
+        "coverage_next": 0.62457335,
+        "mastery_next": 0.61186004,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.12338256,
-          "mean_confidence": 0.11835208,
-          "mean_score": 0.9837092,
+          "weighted_effective": 0.14318497,
+          "mean_confidence": 0.12624441,
+          "mean_score": 0.9796448,
           "n_senses": 1172,
-          "n_tested": 532,
-          "coverage": 0.45392492,
-          "global": 0.05600642,
+          "n_tested": 732,
+          "coverage": 0.62457335,
+          "global": 0.08942952,
           "level": "fragile"
         },
         "ll-2": {
@@ -1282,20 +1282,20 @@
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.0011722208,
+        "progress_to_next": 0.001170539,
         "coverage_next": 0.023037544,
         "mastery_next": 0.018771332,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.050883066,
-          "mean_confidence": 0.062447414,
+          "weighted_effective": 0.05081006,
+          "mean_confidence": 0.0623578,
           "mean_score": 0.8148148,
           "n_senses": 1172,
           "n_tested": 27,
           "coverage": 0.023037544,
-          "global": 0.0011722208,
+          "global": 0.001170539,
           "level": "fragile"
         },
         "ll-2": {
@@ -1366,20 +1366,20 @@
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.0047813524,
+        "progress_to_next": 0.0047744922,
         "coverage_next": 0.086177476,
         "mastery_next": 0.07423208,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.055482622,
-          "mean_confidence": 0.06408475,
+          "weighted_effective": 0.055403017,
+          "mean_confidence": 0.063992806,
           "mean_score": 0.8613861,
           "n_senses": 1172,
           "n_tested": 101,
           "coverage": 0.086177476,
-          "global": 0.0047813524,
+          "global": 0.0047744922,
           "level": "fragile"
         },
         "ll-2": {
@@ -1450,20 +1450,20 @@
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.008833103,
+        "progress_to_next": 0.008820428,
         "coverage_next": 0.14163822,
         "mastery_next": 0.14078498,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.06236384,
-          "mean_confidence": 0.06310998,
+          "weighted_effective": 0.062274344,
+          "mean_confidence": 0.063019425,
           "mean_score": 0.9939759,
           "n_senses": 1172,
           "n_tested": 166,
           "coverage": 0.14163822,
-          "global": 0.008833103,
+          "global": 0.008820428,
           "level": "fragile"
         },
         "ll-2": {
@@ -1534,20 +1534,20 @@
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.05600642,
-        "coverage_next": 0.45392492,
-        "mastery_next": 0.44653013,
+        "progress_to_next": 0.08942952,
+        "coverage_next": 0.62457335,
+        "mastery_next": 0.61186004,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.12338256,
-          "mean_confidence": 0.11835208,
-          "mean_score": 0.9837092,
+          "weighted_effective": 0.14318497,
+          "mean_confidence": 0.12624441,
+          "mean_score": 0.9796448,
           "n_senses": 1172,
-          "n_tested": 532,
-          "coverage": 0.45392492,
-          "global": 0.05600642,
+          "n_tested": 732,
+          "coverage": 0.62457335,
+          "global": 0.08942952,
           "level": "fragile"
         },
         "ll-2": {
@@ -1618,20 +1618,20 @@
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.00067973504,
+        "progress_to_next": 0.00067875965,
         "coverage_next": 0.012798634,
         "mastery_next": 0.011945392,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.053109966,
-          "mean_confidence": 0.056903526,
+          "weighted_effective": 0.053033758,
+          "mean_confidence": 0.05682188,
           "mean_score": 0.93333334,
           "n_senses": 1172,
           "n_tested": 15,
           "coverage": 0.012798634,
-          "global": 0.00067973504,
+          "global": 0.00067875965,
           "level": "fragile"
         },
         "ll-2": {
@@ -1702,20 +1702,20 @@
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.0047813524,
+        "progress_to_next": 0.0047744922,
         "coverage_next": 0.086177476,
         "mastery_next": 0.07423208,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.055482622,
-          "mean_confidence": 0.06408475,
+          "weighted_effective": 0.055403017,
+          "mean_confidence": 0.063992806,
           "mean_score": 0.8613861,
           "n_senses": 1172,
           "n_tested": 101,
           "coverage": 0.086177476,
-          "global": 0.0047813524,
+          "global": 0.0047744922,
           "level": "fragile"
         },
         "ll-2": {
@@ -1786,20 +1786,20 @@
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.008833103,
+        "progress_to_next": 0.008820428,
         "coverage_next": 0.14163822,
         "mastery_next": 0.14078498,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.06236384,
-          "mean_confidence": 0.06310998,
+          "weighted_effective": 0.062274344,
+          "mean_confidence": 0.063019425,
           "mean_score": 0.9939759,
           "n_senses": 1172,
           "n_tested": 166,
           "coverage": 0.14163822,
-          "global": 0.008833103,
+          "global": 0.008820428,
           "level": "fragile"
         },
         "ll-2": {
@@ -1870,20 +1870,20 @@
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.05600642,
-        "coverage_next": 0.45392492,
-        "mastery_next": 0.44653013,
+        "progress_to_next": 0.08942952,
+        "coverage_next": 0.62457335,
+        "mastery_next": 0.61186004,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.12338256,
-          "mean_confidence": 0.11835208,
-          "mean_score": 0.9837092,
+          "weighted_effective": 0.14318497,
+          "mean_confidence": 0.12624441,
+          "mean_score": 0.9796448,
           "n_senses": 1172,
-          "n_tested": 532,
-          "coverage": 0.45392492,
-          "global": 0.05600642,
+          "n_tested": 732,
+          "coverage": 0.62457335,
+          "global": 0.08942952,
           "level": "fragile"
         },
         "ll-2": {
@@ -1954,20 +1954,20 @@
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.00067973504,
+        "progress_to_next": 0.00067875965,
         "coverage_next": 0.012798634,
         "mastery_next": 0.011945392,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.053109966,
-          "mean_confidence": 0.056903526,
+          "weighted_effective": 0.053033758,
+          "mean_confidence": 0.05682188,
           "mean_score": 0.93333334,
           "n_senses": 1172,
           "n_tested": 15,
           "coverage": 0.012798634,
-          "global": 0.00067973504,
+          "global": 0.00067875965,
           "level": "fragile"
         },
         "ll-2": {
@@ -2038,20 +2038,20 @@
       "cefr": {
         "level": null,
         "next": "A1",
-        "progress_to_next": 0.0011722208,
+        "progress_to_next": 0.001170539,
         "coverage_next": 0.023037544,
         "mastery_next": 0.018771332,
         "confidence": 0.0
       },
       "tier_scores": {
         "ll-1": {
-          "weighted_effective": 0.050883066,
-          "mean_confidence": 0.062447414,
+          "weighted_effective": 0.05081006,
+          "mean_confidence": 0.0623578,
           "mean_score": 0.8148148,
           "n_senses": 1172,
           "n_tested": 27,
           "coverage": 0.023037544,
-          "global": 0.0011722208,
+          "global": 0.001170539,
           "level": "fragile"
         },
         "ll-2": {
